@@ -1,45 +1,45 @@
 {
-  "versionCode": 400929,
-  "versionName": "2026.10.06-10.09",
-  "size": 142011898,
-  "sha256": "95b55f73a3b359bb5cb4f39a9593f519fefc87b91f072db2217a701f8dfe6fa5",
-  "notes": "Journal a distance : traces de l'ecoute des essais",
+  "versionCode": 400937,
+  "versionName": "2026.10.06-10.17",
+  "size": 142011826,
+  "sha256": "4682812f458b73071c9d9b4207a139e4bcb97f8f3103740f671ef8463ada4613",
+  "notes": "Journal a distance : essais sans dependre de l'horloge du telephone",
   "patches": [
     {
+      "from": 400929,
+      "file": "patches/400929-400937.nvp",
+      "size": 1252314,
+      "sha256": "630fac56969c7b5997a384ce3b02bfc5ea6fcc7edab57b01c435fbb899427129",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v400937/400929-400937.nvp"
+    },
+    {
       "from": 400881,
-      "file": "patches/400881-400929.nvp",
-      "size": 1251460,
-      "sha256": "0f9778ae8cceab9702211a826937a4192120fa684a09e5eb257fe67bd641db61",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v400929/400881-400929.nvp"
+      "file": "patches/400881-400937.nvp",
+      "size": 1252313,
+      "sha256": "82a447804a762a0c1c83306f8b7ba7e1068eeaf0078d52a3562ee49415626bf2",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v400937/400881-400937.nvp"
     },
     {
       "from": 400870,
-      "file": "patches/400870-400929.nvp",
-      "size": 1290793,
-      "sha256": "c6abf45d07e17c6dd934b8b65562e16f338edca045f8e406e71283b2f6b0e53d",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v400929/400870-400929.nvp"
+      "file": "patches/400870-400937.nvp",
+      "size": 1121282,
+      "sha256": "de7cbc084df123965060a6f13650f3b16c15240b533cbaa8e615f04443354e04",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v400937/400870-400937.nvp"
     },
     {
       "from": 400867,
-      "file": "patches/400867-400929.nvp",
-      "size": 1290509,
-      "sha256": "f3493678d53f6a8a3120c376d6510f358baf47ecf92429861510ed58091af3f9",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v400929/400867-400929.nvp"
+      "file": "patches/400867-400937.nvp",
+      "size": 1291414,
+      "sha256": "3c616c04e6dbe32e4fdc2fc57331ed0595a5ac76c5e97446a2f804b02e84bb89",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v400937/400867-400937.nvp"
     },
     {
       "from": 400850,
-      "file": "patches/400850-400929.nvp",
-      "size": 1290795,
-      "sha256": "762238f7cd08d2a139f01fcd391e9b4695f8a110a1795e7ff34f0ac3c54b80ae",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v400929/400850-400929.nvp"
-    },
-    {
-      "from": 400102,
-      "file": "patches/400102-400929.nvp",
-      "size": 1120910,
-      "sha256": "28e095dfe1804f3f90c952b2b3999f1779f64021c38ca7fcaaec6317dcdbefae",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v400929/400102-400929.nvp"
+      "file": "patches/400850-400937.nvp",
+      "size": 1291420,
+      "sha256": "c8dad3a92e714ab79a43e450fc40c6733afb22847fa1a124ae666958fac90e9a",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v400937/400850-400937.nvp"
     }
   ],
-  "apkUrl": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v400929/nova.apk"
+  "apkUrl": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v400937/nova.apk"
 }
