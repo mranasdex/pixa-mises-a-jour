@@ -1,45 +1,45 @@
 {
-  "versionCode": 401018,
-  "versionName": "2026.10.06-11.38",
-  "size": 142037218,
-  "sha256": "f0902879bf124c2af2de5172b9cc93a5a1c70b2c48c7ed26a52511f19a3c938c",
-  "notes": "Journal a distance sur demande (limite de 250 messages par jour)",
+  "versionCode": 401035,
+  "versionName": "2026.10.06-11.55",
+  "size": 142060046,
+  "sha256": "9a6663af0f1bc8f50535f923dfcaa997c37b7503e6bb5a135cef9347cb4db0f4",
+  "notes": "Apprentissage livraison 4 : suivi des parents, etoiles et badges",
   "patches": [
     {
+      "from": 401018,
+      "file": "patches/401018-401035.nvp",
+      "size": 1337321,
+      "sha256": "d8e20cde088b7321fb8225dba87493153b0cf2156c9c489f5c1cec39b35023f1",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401035/401018-401035.nvp"
+    },
+    {
       "from": 400979,
-      "file": "patches/400979-401018.nvp",
-      "size": 1277453,
-      "sha256": "86ce81c6ef01015ad5a2aadd722259b071aeb1a9608564bb81c6bfea3e2d2352",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401018/400979-401018.nvp"
+      "file": "patches/400979-401035.nvp",
+      "size": 1337318,
+      "sha256": "94791f832d2f023502facccb5b10dbd3b8b24debce9f51b5af050858a0d64021",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401035/400979-401035.nvp"
     },
     {
       "from": 400937,
-      "file": "patches/400937-401018.nvp",
-      "size": 1277455,
-      "sha256": "405ca3c8b562244061847dad4b09093880f5d8d16442677b3d61ccd22af684c0",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401018/400937-401018.nvp"
+      "file": "patches/400937-401035.nvp",
+      "size": 1337316,
+      "sha256": "7e3ae033dd1c9763b53c4a402ad5e4dead5fea461b19a90521ca8fce8d721016",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401035/400937-401035.nvp"
     },
     {
       "from": 400929,
-      "file": "patches/400929-401018.nvp",
-      "size": 1277454,
-      "sha256": "ba007ce5a24e8b3af15c4339e6ed18e43a5678de52eb5a74d5b8896ca238c80c",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401018/400929-401018.nvp"
+      "file": "patches/400929-401035.nvp",
+      "size": 1337070,
+      "sha256": "d1b494eb7629803bd09176731dc7da2e907031a9d4745ef9ce17c08d78d4f768",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401035/400929-401035.nvp"
     },
     {
       "from": 400881,
-      "file": "patches/400881-401018.nvp",
-      "size": 1107253,
-      "sha256": "ea51480118b177f858054504e90c02a4c8d1b2b07b1547919d2aa04334e75c11",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401018/400881-401018.nvp"
-    },
-    {
-      "from": 400870,
-      "file": "patches/400870-401018.nvp",
-      "size": 1316383,
-      "sha256": "926e65e2205b944df00c314595e5050feeca1158b3ba0320ec0670a2b3fead43",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401018/400870-401018.nvp"
+      "file": "patches/400881-401035.nvp",
+      "size": 1337070,
+      "sha256": "5071dd95bc977553f8301e896850a9a6917ff1ee44ee21816dfd62777a2c5dc5",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401035/400881-401035.nvp"
     }
   ],
-  "apkUrl": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401018/nova.apk"
+  "apkUrl": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401035/nova.apk"
 }
