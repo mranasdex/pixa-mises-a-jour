@@ -1,45 +1,45 @@
 {
-  "versionCode": 401186,
-  "versionName": "2026.10.06-14.26",
-  "size": 142098654,
-  "sha256": "77338cf074a704911d39af427edd7babaaac89bd86eed684381b6dc5b9597050",
-  "notes": "Réponse directe aux questions (leçon seulement si demandée), photos précises, dessins tracés",
+  "versionCode": 401204,
+  "versionName": "2026.10.06-14.44",
+  "size": 142100074,
+  "sha256": "08789dd25399c3cef4e59714a994c236a8d0a09910de4a1c2bf378dce352d865",
+  "notes": "Jeux : bouton QUITTER visible, « quitte le jeu » entendu à tout moment",
   "patches": [
     {
+      "from": 401186,
+      "file": "patches/401186-401204.nvp",
+      "size": 1339701,
+      "sha256": "39be37d05c2782ab1a681b4546486e0d2f0397251b08f762f238cb0b119f7d3d",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401204/401186-401204.nvp"
+    },
+    {
       "from": 401185,
-      "file": "patches/401185-401186.nvp",
-      "size": 1167039,
-      "sha256": "8929a766bd62f7f26e424983829351a4f06dedaf6ef5ffe47979124d28505336",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401186/401185-401186.nvp"
+      "file": "patches/401185-401204.nvp",
+      "size": 1339700,
+      "sha256": "d829b092a5ade2d6e33ad31dc1437862ec812c2faabdf15e5d368da85e6075c7",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401204/401185-401204.nvp"
     },
     {
       "from": 401066,
-      "file": "patches/401066-401186.nvp",
-      "size": 1379525,
-      "sha256": "5d50d4397f5fcf732bcb0482d586e58511ce3aec9e5d439daf68b54f828327c3",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401186/401066-401186.nvp"
+      "file": "patches/401066-401204.nvp",
+      "size": 1381043,
+      "sha256": "4f509b971a4ed6024bbd5b71d624e7d4fc69aa05be9ad7921c68c160af527f86",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401204/401066-401204.nvp"
     },
     {
       "from": 401035,
-      "file": "patches/401035-401186.nvp",
-      "size": 1379526,
-      "sha256": "4436e22fd6b38b92df5ba531fb085cf1d5ce045d02965c6a2f7cc237bc8de82e",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401186/401035-401186.nvp"
+      "file": "patches/401035-401204.nvp",
+      "size": 1380789,
+      "sha256": "c8f2ef0cb35333331449fc85ced5156ced8dcacd5cf5f425b49217a2cb22cef3",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401204/401035-401204.nvp"
     },
     {
       "from": 401018,
-      "file": "patches/401018-401186.nvp",
-      "size": 1379525,
-      "sha256": "cc3314aa71c0ec93fd71d78b7c7c975e9a86cfc677f8b003dbe5b25d0de6749f",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401186/401018-401186.nvp"
-    },
-    {
-      "from": 400979,
-      "file": "patches/400979-401186.nvp",
-      "size": 1379268,
-      "sha256": "0dde3ed4d8d12d02ae2c2ee70cbfb27fcfaf3e7e9b18a7744f2a3aa9face3820",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401186/400979-401186.nvp"
+      "file": "patches/401018-401204.nvp",
+      "size": 1381044,
+      "sha256": "c64c8b7049fcbef57cebde155b5b27010e89cbc8e5257fcd0626647327d0dd15",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401204/401018-401204.nvp"
     }
   ],
-  "apkUrl": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401186/nova.apk"
+  "apkUrl": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401204/nova.apk"
 }
