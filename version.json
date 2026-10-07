@@ -1,45 +1,45 @@
 {
-  "versionCode": 402595,
-  "versionName": "2026.10.07-13.55",
-  "size": 165249788,
-  "sha256": "1ddf517903b21b83defbef2de0a78ec00794d64ed5cadfd5c6b0d6bb16f5dcc9",
-  "notes": "Jeux à la caméra : pierre-feuille-ciseaux, Jacques a dit, imite mes émotions (MediaPipe)",
+  "versionCode": 402624,
+  "versionName": "2026.10.07-14.24",
+  "size": 165262440,
+  "sha256": "86236603090027884105dde5faed9acd60ef5e66f4f0b83bb0f14b9a3a0d44b5",
+  "notes": "Jeux : statues musicales (musique de Pixa ou radio, jusqu'à 3 joueuses) et miroir des gestes",
   "patches": [
     {
+      "from": 402595,
+      "file": "patches/402595-402624.nvp",
+      "size": 1544309,
+      "sha256": "0c8f55bbcda270ebe043f2db6dc638299fe18e3638780d44082fdd92e2a541b5",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402624/402595-402624.nvp"
+    },
+    {
       "from": 402516,
-      "file": "patches/402516-402595.nvp",
-      "size": 30363466,
-      "sha256": "5dea611f7d02a1ad7e0efcfa62c63e67c0b0a392561c77e3323b066fb1ed2559",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402595/402516-402595.nvp"
+      "file": "patches/402516-402624.nvp",
+      "size": 30375717,
+      "sha256": "20572426723a4875f83efbf438e09f674e92b39af114eeefd5d81e3e11591eb5",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402624/402516-402624.nvp"
     },
     {
       "from": 402493,
-      "file": "patches/402493-402595.nvp",
-      "size": 30408152,
-      "sha256": "4ee36c255954d46d29a5c73de06b95da980aadcb89eb07347690d4968dfebe35",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402595/402493-402595.nvp"
+      "file": "patches/402493-402624.nvp",
+      "size": 30250824,
+      "sha256": "63374e56fa315d535a37c3e40f55f1b9ac545596ef83531b623215fa9622db8f",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402624/402493-402624.nvp"
     },
     {
       "from": 402478,
-      "file": "patches/402478-402595.nvp",
-      "size": 30407901,
-      "sha256": "54f668fc2b68df57da5eb3f5ef31e2832b17f52b7a224076b227f80e7bbabc37",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402595/402478-402595.nvp"
+      "file": "patches/402478-402624.nvp",
+      "size": 30250550,
+      "sha256": "2b1614725ec40f8fcc200cc265287f97ab3f329ff940865a19cd4bf479b92180",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402624/402478-402624.nvp"
     },
     {
       "from": 402450,
-      "file": "patches/402450-402595.nvp",
-      "size": 30451388,
-      "sha256": "4a8a704c8b60160005857ed783661e5b372bac7cc6e76bbbea40f94ea0e14251",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402595/402450-402595.nvp"
-    },
-    {
-      "from": 402397,
-      "file": "patches/402397-402595.nvp",
-      "size": 30451691,
-      "sha256": "96d1f69db05f0804447899dc47d9d9cd14eb3b88c192252fa1e30cfc907c541c",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402595/402397-402595.nvp"
+      "file": "patches/402450-402624.nvp",
+      "size": 30294795,
+      "sha256": "6e623391db424fe1a57985c14b41e2456234ab29839e143fd46ef25c82fd699c",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402624/402450-402624.nvp"
     }
   ],
-  "apkUrl": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402595/nova.apk"
+  "apkUrl": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402624/nova.apk"
 }
