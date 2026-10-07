@@ -1,45 +1,45 @@
 {
-  "versionCode": 402450,
-  "versionName": "2026.10.07-11.30",
-  "size": 142303677,
-  "sha256": "827d8dc31b5e66e699f6ed310b706c4f9a2c5aa09e8499ab5fcdf3776582cb80",
-  "notes": "Programme CE1 : les maths (30 notions, 90 cours)",
+  "versionCode": 402478,
+  "versionName": "2026.10.07-11.58",
+  "size": 142346685,
+  "sha256": "a1123921fde1f0a6ff0d0cdf317dcd0d5e6e77e70f586d8c412e66ce6aa92de6",
+  "notes": "Programme CE1 : le français (22 notions, 66 cours)",
   "patches": [
     {
+      "from": 402450,
+      "file": "patches/402450-402478.nvp",
+      "size": 1374122,
+      "sha256": "7d51057a319384c5df4be9f09ed4a5eff9c576368b34ea9ee7634d46228a8371",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402478/402450-402478.nvp"
+    },
+    {
       "from": 402397,
-      "file": "patches/402397-402450.nvp",
-      "size": 1331253,
-      "sha256": "fb1c1034a17392f333014991030236389cc453686d7cbfbf172e5c5d664a44c1",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402450/402397-402450.nvp"
+      "file": "patches/402397-402478.nvp",
+      "size": 1374381,
+      "sha256": "b33a56d9012cc22f1dc14ce5d223e84f47c7cef27fe1f66dcbf58d75d9d2fae3",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402478/402397-402478.nvp"
     },
     {
       "from": 402381,
-      "file": "patches/402381-402450.nvp",
-      "size": 1412166,
-      "sha256": "3b77c59f3cc99c002f06c4de549ed350e71019426878a56d8bc052391af61b23",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402450/402381-402450.nvp"
+      "file": "patches/402381-402478.nvp",
+      "size": 1455172,
+      "sha256": "8960bf829e383009a935caa5676ecb62d92ebcbfa8e0a41b5f2dfd730f03993c",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402478/402381-402478.nvp"
     },
     {
       "from": 402375,
-      "file": "patches/402375-402450.nvp",
-      "size": 1412414,
-      "sha256": "4995c5c085166969dbb480ca4ebc6f8c6beff658ae8bb105b59bae12ee25433e",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402450/402375-402450.nvp"
+      "file": "patches/402375-402478.nvp",
+      "size": 1455427,
+      "sha256": "140e303f26f1c613eb65d60b5812ec6509cc72ad8269ba6020df8a0f95db6f1f",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402478/402375-402478.nvp"
     },
     {
       "from": 402357,
-      "file": "patches/402357-402450.nvp",
-      "size": 1412414,
-      "sha256": "d8f466352d1f924a8b4917e015145c9e56b2595f627b2df8c96532bf4306e1be",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402450/402357-402450.nvp"
-    },
-    {
-      "from": 402346,
-      "file": "patches/402346-402450.nvp",
-      "size": 1582934,
-      "sha256": "3b73bc916b7aef5bd9b127ad7e8032bc46168baeea449b4d073aba052907b109",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402450/402346-402450.nvp"
+      "file": "patches/402357-402478.nvp",
+      "size": 1455422,
+      "sha256": "a40010a5a7c5167c1c7c35696f561025e28a2d3c6d732097a09d8b263a8b1fda",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402478/402357-402478.nvp"
     }
   ],
-  "apkUrl": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402450/nova.apk"
+  "apkUrl": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402478/nova.apk"
 }
