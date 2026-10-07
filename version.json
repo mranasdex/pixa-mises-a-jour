@@ -1,45 +1,45 @@
 {
-  "versionCode": 402875,
-  "versionName": "2026.10.07-18.35",
-  "size": 177264877,
-  "sha256": "94cd354cc9cef25c54af611a335077136784a49a4ba43bfcc1cab597a7913f7c",
-  "notes": "Jeu Pop It (9 modes) + plein écran et vibration pour les jeux",
+  "versionCode": 402884,
+  "versionName": "2026.10.07-18.44",
+  "size": 177266261,
+  "sha256": "e0df6fbf582c3b533c22543f1cc8674ab8e940c1bc389874d01ec2936d6ddd2f",
+  "notes": "Panneau : la page ne remonte plus en haut pendant une mise à jour",
   "patches": [
     {
+      "from": 402875,
+      "file": "patches/402875-402884.nvp",
+      "size": 1649379,
+      "sha256": "78522e1e17be68444ba897912ef87eb109aa5532d9a25abafe3456a99a3eed92",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402884/402875-402884.nvp"
+    },
+    {
       "from": 402860,
-      "file": "patches/402860-402875.nvp",
-      "size": 1477062,
-      "sha256": "d1823a36dc25779c53cb15aca4d6e740f9e74f5cc6a440a11a20cda1be4cc567",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402875/402860-402875.nvp"
+      "file": "patches/402860-402884.nvp",
+      "size": 1649376,
+      "sha256": "39b00146ab469543425c153849e6464876ce8e09c9440a1e37fb9718a9b8fbb7",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402884/402860-402884.nvp"
     },
     {
       "from": 402811,
-      "file": "patches/402811-402875.nvp",
-      "size": 1477062,
-      "sha256": "5c78f42c6fb6e4a8b018eb9e8954199c793f1206180063a613437e7cdce1693e",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402875/402811-402875.nvp"
+      "file": "patches/402811-402884.nvp",
+      "size": 1649124,
+      "sha256": "e2442ada0e406a23da144b4b18ff7b6b0879ef339de8379d126ae675277d0dc5",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402884/402811-402884.nvp"
     },
     {
       "from": 402803,
-      "file": "patches/402803-402875.nvp",
-      "size": 1522291,
-      "sha256": "632fc705b851b12a4f5a0c1c2510903a3ff6c44fe5c4e4f5cc584d21e8e39bbf",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402875/402803-402875.nvp"
+      "file": "patches/402803-402884.nvp",
+      "size": 1695331,
+      "sha256": "8049a289c2a7b9d47d2b8aed44c7dfb9e50bc6038f0cb1bf3b7fc51500b2b505",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402884/402803-402884.nvp"
     },
     {
       "from": 402792,
-      "file": "patches/402792-402875.nvp",
-      "size": 1692630,
-      "sha256": "756b5652f8dbcc48382d92b233757600da96f2033a29b36216750ec010bff1f9",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402875/402792-402875.nvp"
-    },
-    {
-      "from": 402788,
-      "file": "patches/402788-402875.nvp",
-      "size": 1692369,
-      "sha256": "3b2ba1080c30c1705c921a6d7e2fb0aefc1b73eaf6532250d7c80a56746bb03e",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402875/402788-402875.nvp"
+      "file": "patches/402792-402884.nvp",
+      "size": 1524227,
+      "sha256": "4f6d780e93ed52fb311cc1a28e083b1ed2a9676b6d4a3ba8c581f85f4e86439d",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402884/402792-402884.nvp"
     }
   ],
-  "apkUrl": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402875/nova.apk"
+  "apkUrl": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402884/nova.apk"
 }
