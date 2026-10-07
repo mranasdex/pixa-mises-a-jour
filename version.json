@@ -1,45 +1,45 @@
 {
-  "versionCode": 402655,
-  "versionName": "2026.10.07-14.55",
-  "size": 177205421,
-  "sha256": "e7d120f8b34032ebd97bd26119b1f1ed13bb47b379b3def65621c5d833d5a32e",
-  "notes": "Reconnaître qui est là (visages) + routines du matin et du soir",
+  "versionCode": 402745,
+  "versionName": "2026.10.07-16.25",
+  "size": 177231281,
+  "sha256": "984f3732597599c1fd9f2421e09ee6eebb499516f7a49969df0bc3e28cbfe6c7",
+  "notes": "Mémoire des moments importants (souvenirs des enfants)",
   "patches": [
     {
+      "from": 402655,
+      "file": "patches/402655-402745.nvp",
+      "size": 1661141,
+      "sha256": "dea1b257f4c439be42208c3a2ad9394dc0229f6a964566ac57505beee8f02104",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402745/402655-402745.nvp"
+    },
+    {
       "from": 402624,
-      "file": "patches/402624-402655.nvp",
-      "size": 16861702,
-      "sha256": "14930e513ddc35d477a1394283b40bb3cb863965fbcde835a5222855a9530d8b",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402655/402624-402655.nvp"
+      "file": "patches/402624-402745.nvp",
+      "size": 16929680,
+      "sha256": "68c5234009aec2e37366a554635aa72fad2123cff9175d64a64f5a2ead5aad30",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402745/402624-402745.nvp"
     },
     {
       "from": 402595,
-      "file": "patches/402595-402655.nvp",
-      "size": 16861694,
-      "sha256": "354eeae0765dfeb92ab92ad57d6c135869f770857f5d09d1be7e224b12a0a91a",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402655/402595-402655.nvp"
+      "file": "patches/402595-402745.nvp",
+      "size": 16929686,
+      "sha256": "410471266370274c94c6ca5807d159143ba8e58d5825aa4e331ddc95b9b7c6e5",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402745/402595-402745.nvp"
     },
     {
       "from": 402516,
-      "file": "patches/402516-402655.nvp",
-      "size": 41740883,
-      "sha256": "e616892b9922103d5c17deddf6643ccce4b371b90d8befae56aaafeda67846da",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402655/402516-402655.nvp"
+      "file": "patches/402516-402745.nvp",
+      "size": 41979055,
+      "sha256": "a5e27459db49f278ad017730613f64512c5961d0132f93c69138a77bb956c339",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402745/402516-402745.nvp"
     },
     {
       "from": 402493,
-      "file": "patches/402493-402655.nvp",
-      "size": 41955533,
-      "sha256": "c752de41a35ff76d0d6efcb59e39a5ee12c7573c60d36257b97a0e42fa4e2015",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402655/402493-402655.nvp"
-    },
-    {
-      "from": 402478,
-      "file": "patches/402478-402655.nvp",
-      "size": 41955801,
-      "sha256": "692485a0389a60422db2647b39dc32c99abb5ad4b70a527fec4263dc583331b5",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402655/402478-402655.nvp"
+      "file": "patches/402493-402745.nvp",
+      "size": 42026742,
+      "sha256": "199b9ea367093e3aa1066ce2d9c2aa8f178534851bdd29573762e53cdd029e90",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402745/402493-402745.nvp"
     }
   ],
-  "apkUrl": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402655/nova.apk"
+  "apkUrl": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402745/nova.apk"
 }
