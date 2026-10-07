@@ -1,45 +1,45 @@
 {
-  "versionCode": 401751,
-  "versionName": "2026.10.06-23.51",
-  "size": 142176193,
-  "sha256": "33c94c5f329141b0b733819c8cc8d0b175d3e31d879ee9cc8d4d954aa6a8969f",
-  "notes": "Leçons : toujours des réponses à toucher, Pixa relance quand elle n'a pas entendu",
+  "versionCode": 401760,
+  "versionName": "2026.10.07-00.00",
+  "size": 142177089,
+  "sha256": "d2febae9b5ba6c86996f1a37f3464005132de9e1d91a50824f5916bfcc4ce764",
+  "notes": "Leçons : « stop / arrête » arrête la série, bouton ■ pendant les exercices",
   "patches": [
     {
+      "from": 401751,
+      "file": "patches/401751-401760.nvp",
+      "size": 1408934,
+      "sha256": "f470a132541c4fa7f71e3e9601a751443e872f3100f19f1629f7e61c65b2fda2",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401760/401751-401760.nvp"
+    },
+    {
       "from": 401740,
-      "file": "patches/401740-401751.nvp",
-      "size": 1408374,
-      "sha256": "ada6ab9eee30ad95abbd514a85b39a78046d6ab8a235094e6fc6d0231904faff",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401751/401740-401751.nvp"
+      "file": "patches/401740-401760.nvp",
+      "size": 1408935,
+      "sha256": "b7630c920da137757ebab2715e9ca6df3202e074ad7111665534b07baae1b7af",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401760/401740-401760.nvp"
     },
     {
       "from": 401446,
-      "file": "patches/401446-401751.nvp",
-      "size": 1411762,
-      "sha256": "65e6bfa2aa36d6eb4463031f6cadd7abcf19c48b64e0965d05ddfad98e4a3023",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401751/401446-401751.nvp"
+      "file": "patches/401446-401760.nvp",
+      "size": 1413392,
+      "sha256": "99e057f7a29d23c2441f482e59d3163cbeb724ae2d6aa19ed07be4efe90cdb9a",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401760/401446-401760.nvp"
     },
     {
       "from": 401422,
-      "file": "patches/401422-401751.nvp",
-      "size": 1412029,
-      "sha256": "8f0302b5aef31e99c54a77d4e92e137f006b6d24b86ce2c55bc24e66c521458e",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401751/401422-401751.nvp"
+      "file": "patches/401422-401760.nvp",
+      "size": 1244305,
+      "sha256": "ddf7ac599258498ea8d55696f1333093258eb4eb695ae526a2d45e328232a32f",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401760/401422-401760.nvp"
     },
     {
       "from": 401410,
-      "file": "patches/401410-401751.nvp",
-      "size": 1412027,
-      "sha256": "05ee831c1dd04bbb334abdb0af2f0936b181ae1501c976e9e9f4b17f54c52a84",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401751/401410-401751.nvp"
-    },
-    {
-      "from": 401336,
-      "file": "patches/401336-401751.nvp",
-      "size": 1411755,
-      "sha256": "184161de153855a1513e369d51600611ece98945101f5b3c0306dcb9899e5537",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401751/401336-401751.nvp"
+      "file": "patches/401410-401760.nvp",
+      "size": 1244551,
+      "sha256": "fc8ba189f2f8b9093804f0fad746890cbb24898fb8152c8d2aad106f6cd238d0",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401760/401410-401760.nvp"
     }
   ],
-  "apkUrl": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401751/nova.apk"
+  "apkUrl": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v401760/nova.apk"
 }
