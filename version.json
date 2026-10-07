@@ -1,45 +1,45 @@
 {
-  "versionCode": 402994,
-  "versionName": "2026.10.07-20.34",
-  "size": 177334001,
-  "sha256": "709b8f5e90fd41c68cfe1a30a85e05414684efe9c3feb8d9e8ccee4878fb0d45",
-  "notes": "Caméra en grand à la place du visage (photos et jeux), caméra de devant par défaut, bouton pour changer",
+  "versionCode": 403033,
+  "versionName": "2026.10.07-21.13",
+  "size": 177335489,
+  "sha256": "2444a79b8a91dd8396f14e43a922054f081dadcaadd33520492d2afde5dd5acc",
+  "notes": "Jacques a dit : mains sur les épaules, toucher le nez et mains sur la tête mieux reconnus",
   "patches": [
     {
+      "from": 402994,
+      "file": "patches/402994-403033.nvp",
+      "size": 1719986,
+      "sha256": "6e13f66c479fa9ef9f763424d2d67869d39ffe5d2df883dfc5f8f91f8d0b475c",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v403033/402994-403033.nvp"
+    },
+    {
       "from": 402982,
-      "file": "patches/402982-402994.nvp",
-      "size": 1717715,
-      "sha256": "0c1adceb81b74d313fd0ad259c5fab881fd779cb545127ac2ef0f393e714d13e",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402994/402982-402994.nvp"
+      "file": "patches/402982-403033.nvp",
+      "size": 1719985,
+      "sha256": "9eabf3ce501d2151c7321827b9830a76814325850c4d06cfa14022189d18bacf",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v403033/402982-403033.nvp"
     },
     {
       "from": 402974,
-      "file": "patches/402974-402994.nvp",
-      "size": 1717715,
-      "sha256": "caad70a01eb723e957690ad3190d5b189fe1dd0cb6d56e0f58428c477e73ede2",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402994/402974-402994.nvp"
+      "file": "patches/402974-403033.nvp",
+      "size": 1548909,
+      "sha256": "3632e20502a411b2a4abd1a1592b2f54de525832420e8d2348e91f91009d4642",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v403033/402974-403033.nvp"
     },
     {
       "from": 402884,
-      "file": "patches/402884-402994.nvp",
-      "size": 1717714,
-      "sha256": "565b5a92fd22ff348b4c2072f8fca45728c9c90da968adf0bd466cb1bfcbe1ed",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402994/402884-402994.nvp"
+      "file": "patches/402884-403033.nvp",
+      "size": 1548908,
+      "sha256": "36e496989e25dcb482d825d6c66bbf8f3015758b9ca893287a406e63fefd5602",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v403033/402884-403033.nvp"
     },
     {
       "from": 402875,
-      "file": "patches/402875-402994.nvp",
-      "size": 1717714,
-      "sha256": "9283b49824fb602be87ddf5ccb4a31ac746b8df32705e8838168f90629f26376",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402994/402875-402994.nvp"
-    },
-    {
-      "from": 402860,
-      "file": "patches/402860-402994.nvp",
-      "size": 1717715,
-      "sha256": "24f6781b02b2a2e1e1e6f774be70a484a07cceaec57f47c98bcfe5576e05e5ed",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402994/402860-402994.nvp"
+      "file": "patches/402875-403033.nvp",
+      "size": 1719986,
+      "sha256": "9f798d0277106c6ebd82ab29c2ca61b2c77fdfc6484f5c20017291590da73544",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v403033/402875-403033.nvp"
     }
   ],
-  "apkUrl": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402994/nova.apk"
+  "apkUrl": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v403033/nova.apk"
 }
