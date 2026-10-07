@@ -1,45 +1,45 @@
 {
-  "versionCode": 402346,
-  "versionName": "2026.10.07-09.46",
-  "size": 142208561,
-  "sha256": "013c2009be506ee44cb3887683c8c98f9b6a2bd0997c4a1547c81e42a710feef",
-  "notes": "Programme CP : géométrie et mesures (formes, se repérer, masses, longueurs, solides, quadrillage)",
+  "versionCode": 402357,
+  "versionName": "2026.10.07-09.57",
+  "size": 142210185,
+  "sha256": "6de9780769d0a13c640562a29f783c50e71cb8c25f6452f747da8c5616e72571",
+  "notes": "Choix du réseau (Wi-Fi seulement / Wi-Fi + données mobiles) dans SYSTÈME",
   "patches": [
     {
+      "from": 402346,
+      "file": "patches/402346-402357.nvp",
+      "size": 1466540,
+      "sha256": "4c09c0a1b2ff8d1276bcc9e1694f5ef60c4b6eb398311524a1e6718837ceb816",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402357/402346-402357.nvp"
+    },
+    {
       "from": 402307,
-      "file": "patches/402307-402346.nvp",
-      "size": 1445007,
-      "sha256": "7636513ab2f11f720fb2c63e5338d1a36a2e339e6eaddc4ee75ee95f57681189",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402346/402307-402346.nvp"
+      "file": "patches/402307-402357.nvp",
+      "size": 1488761,
+      "sha256": "13385106fbd6c934da83a1df2776243c20228ebc2aacb9ff18aaf76b67ada96b",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402357/402307-402357.nvp"
     },
     {
       "from": 402299,
-      "file": "patches/402299-402346.nvp",
-      "size": 1276368,
-      "sha256": "76d6053f45f81bce2923182ed1ad1fa8c794fe08dc8e4d6b5f26b194602bfc20",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402346/402299-402346.nvp"
+      "file": "patches/402299-402357.nvp",
+      "size": 1489021,
+      "sha256": "68527acd4970f0f124d01e6e3c2a74119b2301bdef6bb77cb8a801accfda6666",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402357/402299-402357.nvp"
     },
     {
       "from": 401760,
-      "file": "patches/401760-402346.nvp",
-      "size": 1445002,
-      "sha256": "9d936f73f9cf90a70151671f1160528cf577e66694e5d2c78de90e564290bd03",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402346/401760-402346.nvp"
+      "file": "patches/401760-402357.nvp",
+      "size": 1319477,
+      "sha256": "53f7f961f802bfafe85d961cd66c3bebc9711887354facf9f44cd366891b5617",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402357/401760-402357.nvp"
     },
     {
       "from": 401751,
-      "file": "patches/401751-402346.nvp",
-      "size": 1445008,
-      "sha256": "111d213a7ba14f7aa643d0f783ed5ab7cf160c2848a5747b161790324c8b73f1",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402346/401751-402346.nvp"
-    },
-    {
-      "from": 401740,
-      "file": "patches/401740-402346.nvp",
-      "size": 1445006,
-      "sha256": "02a182154e03d96ca75bcaee18101e20ce91868aa07a6b7e15774543a773be40",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402346/401740-402346.nvp"
+      "file": "patches/401751-402357.nvp",
+      "size": 1488763,
+      "sha256": "bcb06bd5aefe4a7a8a76929e1ca102cc01efc20537c88738ae3562fa32d5d8e1",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402357/401751-402357.nvp"
     }
   ],
-  "apkUrl": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402346/nova.apk"
+  "apkUrl": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402357/nova.apk"
 }
