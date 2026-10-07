@@ -1,45 +1,45 @@
 {
-  "versionCode": 402884,
-  "versionName": "2026.10.07-18.44",
-  "size": 177266261,
-  "sha256": "e0df6fbf582c3b533c22543f1cc8674ab8e940c1bc389874d01ec2936d6ddd2f",
-  "notes": "Panneau : la page ne remonte plus en haut pendant une mise à jour",
+  "versionCode": 402974,
+  "versionName": "2026.10.07-20.14",
+  "size": 177301661,
+  "sha256": "dd0531ffbbcbb54c1ffd6fb483edffd16d01fef50b0181833297fa7c70475f99",
+  "notes": "Dictée : photo du texte, dictée par morceaux, correction de la copie",
   "patches": [
     {
+      "from": 402884,
+      "file": "patches/402884-402974.nvp",
+      "size": 1513376,
+      "sha256": "f5969db309ec44392f4cb27795862b6175317ba7b562460232b89ca9a2868cf7",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402974/402884-402974.nvp"
+    },
+    {
       "from": 402875,
-      "file": "patches/402875-402884.nvp",
-      "size": 1649379,
-      "sha256": "78522e1e17be68444ba897912ef87eb109aa5532d9a25abafe3456a99a3eed92",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402884/402875-402884.nvp"
+      "file": "patches/402875-402974.nvp",
+      "size": 1684104,
+      "sha256": "39fbe6d962ed507b3ad3ca540f376b240b356878ed1e0af250d5fbc8878e4d11",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402974/402875-402974.nvp"
     },
     {
       "from": 402860,
-      "file": "patches/402860-402884.nvp",
-      "size": 1649376,
-      "sha256": "39b00146ab469543425c153849e6464876ce8e09c9440a1e37fb9718a9b8fbb7",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402884/402860-402884.nvp"
+      "file": "patches/402860-402974.nvp",
+      "size": 1684353,
+      "sha256": "20252e0cc184431257029a582e8451145649e69aa4e48d39adb48ec078ccda74",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402974/402860-402974.nvp"
     },
     {
       "from": 402811,
-      "file": "patches/402811-402884.nvp",
-      "size": 1649124,
-      "sha256": "e2442ada0e406a23da144b4b18ff7b6b0879ef339de8379d126ae675277d0dc5",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402884/402811-402884.nvp"
+      "file": "patches/402811-402974.nvp",
+      "size": 1684353,
+      "sha256": "49f5305c676ab59da0a345e168d50fde663db32e0f5db1dd50fe11c57ab8591f",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402974/402811-402974.nvp"
     },
     {
       "from": 402803,
-      "file": "patches/402803-402884.nvp",
-      "size": 1695331,
-      "sha256": "8049a289c2a7b9d47d2b8aed44c7dfb9e50bc6038f0cb1bf3b7fc51500b2b505",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402884/402803-402884.nvp"
-    },
-    {
-      "from": 402792,
-      "file": "patches/402792-402884.nvp",
-      "size": 1524227,
-      "sha256": "4f6d780e93ed52fb311cc1a28e083b1ed2a9676b6d4a3ba8c581f85f4e86439d",
-      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402884/402792-402884.nvp"
+      "file": "patches/402803-402974.nvp",
+      "size": 1730267,
+      "sha256": "9c253714037628518579bc8357506d953e8bf6d071501cea4b13085e35594289",
+      "url": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402974/402803-402974.nvp"
     }
   ],
-  "apkUrl": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402884/nova.apk"
+  "apkUrl": "https://github.com/mranasdex/pixa-mises-a-jour/releases/download/v402974/nova.apk"
 }
